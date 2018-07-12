@@ -1,2 +1,2 @@
-# magnetstecker
-Die Dokumentation des Magenetsteckers, im Projekt Rapidprototyping
+# Magnetstecker
+Alle Informationen sind im Wiki zu finden.
